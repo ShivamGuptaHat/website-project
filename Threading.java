@@ -4,6 +4,7 @@ class Threading
   {
    Thread thread=new Thread(new MyThread);
    thread.start();
+   System.out.println(" Done ");
   }
 }
 class MyThread implements Runnable
