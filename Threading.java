@@ -19,6 +19,11 @@ class MyThread implements Runnable
   {
 	  System.out.println(" Hi ");
 	  sdfasdfasdfsda
+	  sdfasjfdhkasd
+	  asdfdfasdf
+	  asfasdf
+	  
+	  asdfsadf
    System.out.println(" Hello Friends : ");
   }
  }
